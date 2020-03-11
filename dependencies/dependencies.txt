@@ -1,0 +1,15 @@
+left steer='left arrow'
+right steer =' right arrow'
+accelerate = 'place your hand'
+throttle= ' up arrow'
+brake = 'down arrow'
+ 
+
+Steer Sensitivity = 0.7000
+Steer Power = 5.000
+Steer Dead Zone = 0.4000
+Steer speed factor = 4.000
+Brake Sensititvity = 1.000
+Brake Power = 1.000
+Throttle sensitivity = 5.000
+Clutch sensitvity = 1 .000
