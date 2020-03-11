@@ -1,5 +1,5 @@
 # torcs
-car racing game that could be run using hand motion tracking
+car racing game that could be run using hand motion tracking on ubuntu 18
 
 # Installation
 sudo apt-get install -y torcs.
